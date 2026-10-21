@@ -2,6 +2,17 @@
 
 Node/Express API service for the StudyBridge tutoring platform. Connects to the Railway MySQL database and exposes REST endpoints for auth, users/tutors, subjects, availability, sessions, study plans, notifications, messaging, reviews, payments, AI helpers, and marketing content.
 
+## Contributers
+
+Sathwik Chandra Vojjala 
+Harshil Watts
+Sai Sashikanth Reddy Yadamakanti
+Pranavi Yalavarthi
+Nanditha Yerasani 
+
+## Hosted on 
+https://nxy6880.uta.cloud/phase_2/
+
 ## Getting started
 
 ```bash
